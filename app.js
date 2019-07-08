@@ -12,5 +12,5 @@ function setBackground(){
 
         div.style[cssProperty] = cssValue;
     }
-    // console.log(elements);
+    
 }
